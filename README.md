@@ -7,6 +7,14 @@
   </a>
 </p>
 
+### ✍️ Random Dev Joke.
+
+  &nbsp; &nbsp; &nbsp; &nbsp; A SQL query goes into a bar, walks up to two tables and ask...
+  
+  &nbsp; &nbsp; &nbsp; &nbsp; Can I JOIN you? 😂 😄
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=the-1Riddle&style=plastic&color=blue&label=PROFILE+VIEWS)
 
 <!---

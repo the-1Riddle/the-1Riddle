@@ -1,5 +1,9 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Earl;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)
 
+<p align="center">
+<a href="https://github.com/danieleverest"><img src="https://github-widgetbox.vercel.app/api/profile?username=the-1Riddle&data=followers,repositories,stars,commits&theme=viridescent"></a>
+</p>
+
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">

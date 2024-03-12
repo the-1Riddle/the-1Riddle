@@ -1,10 +1,9 @@
 import time
+time = time.time()
 
-localtime = time.asctime( time.localtime(time.time()) )
+ts = time
 
-execTime = localtime
-
-file = open("the-1Riddle.txt", 'w')
-file.write("Time of run : ")
-file.write(str(execTime))
+file = open("amdefiguy.txt", 'w')
+file.write("Time of run | ")
+file.write(str(ts))
 file.close()

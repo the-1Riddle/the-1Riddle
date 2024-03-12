@@ -25,3 +25,9 @@ Now one thing is left: keeping the secret;
 > once you are done and everything is running smoothly, be sure to delete the `.secreto` so that no one
 > Finds the secret 😅, *this is optional but recommended*
 
+To achieve that, click on the secreto directory then, navigate to the three option dots
+![image](https://github.com/the-1Riddle/Github-Profile-Achievements/assets/154701770/57626f86-92ca-477f-9164-75de9ddffb96)
+
+delete the directory then commit the changes.
+
+**Good Luck**

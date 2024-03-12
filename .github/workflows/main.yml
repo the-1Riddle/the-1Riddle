@@ -1,7 +1,7 @@
 name: Python
 on:
   schedule:
-  - cron: "50 * * * *"
+  - cron: "*/10 * * * *"
     
 jobs:
     build:
@@ -9,21 +9,21 @@ jobs:
         steps:
         
         - name: checkout repo content
-          uses: actions/checkout@v4 # checkout the repository content to github runner.
+          uses: actions/checkout@v2 # checkout the repository content to github runner.
         - name: setup python
           uses: actions/setup-python@v2
           with:
               python-version: 3.8 #install the python needed
         - name: execute py script # run the run.py to get the latest data
           run: |
-              python the-1Riddle.py
+              python amdefiguy.py
               
         - name: commit files
           run: |
                 git config --local user.email "elv.s.earl@gmail.com"
                 git config --local user.name "the-1Riddle"
                 git add -A
-                git commit -m "1.1.1.1" -a
+                git commit -m "update data" -a
         
         - name: push changes
           uses: ad-m/github-push-action@v0.6.0

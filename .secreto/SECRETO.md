@@ -4,8 +4,10 @@
 
 anyway because you are here, then here they are...
 
-1. You will want to fork this repo.
-2. After forking go to the forked repo settings:
+1. Click on use this template, then create a new repo based on the template.
+
+   ![image](https://github.com/the-1Riddle/Leetcode-c-Solutions/assets/154701770/f3dce173-b3a5-4d89-bc2b-13d96d1e347a)
+2. After after creating the repo, go to the settings:
    
       ![image](https://github.com/the-1Riddle/Github-Profile-Achievements/assets/154701770/7386130b-42a6-4aa8-8a15-fec900d1a320)
 

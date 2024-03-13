@@ -21,10 +21,14 @@ anyway because you are here, then here they are...
   - change the email to your own primary email
   - change the user name to your user name.
 
-congratulations on completion. 🎉 🎊
+**Additionally**, if you haven't set your location, then go to [settings](https://github.com/settings/profile) then set your country name as the location and click on update.
+
+![image](https://github.com/the1Riddle/Play-Chess/assets/154701770/63289a90-4d6d-4714-aa9c-473863fe6f7f)
+
+***Congratulations on completion.*** 🎉 🎊
 
 Now one thing is left: keeping the secret;
-> once you are done and everything is running smoothly, be sure to delete the `.secreto` so that no one
+> Once you are done and everything is running smoothly, be sure to delete the `.secreto` so that no one
 > Finds the secret 😅, *this is optional but recommended*
 
 To achieve that, click on the secreto directory then, navigate to the three option dots

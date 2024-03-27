@@ -9,6 +9,7 @@
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![Dotnet](https://img.shields.io/badge/-dotnet-000?&logo=dotnet)
 ![Next JS](https://img.shields.io/badge/c-000?&logo=c)
+
 <br>
 
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Elvis+Earl;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://git.io/typing-svg)

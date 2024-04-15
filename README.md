@@ -23,7 +23,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=the-1Riddle&style=plastic&color=blue&label=PROFILE+VIEWS)
+[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 

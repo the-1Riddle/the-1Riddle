@@ -23,7 +23,8 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
+
 
 <!---
 
